@@ -17,7 +17,7 @@ With the except of the big ones, they have to be display:inline.
 ```
 
 
-[Example page](https://rawgit.com/matteoferla/Pyspinner/blob/master/demo.html).
+[Example page](https://rawgit.com/matteoferla/Pyspinner/master/demo.html).
 
-
+![pyspinners](https://rawgit.com/matteoferla/Pyspinner/master/pyspinners.svg)
 
