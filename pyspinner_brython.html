@@ -4,15 +4,16 @@
 <meta charset="utf-8">
 <title>Pyspinner Test</title>
 <meta name="description" content="Pyspinner">
-<link rel="stylesheet" href="//extra.matteoferla.com/pyspinner.css">
-<script type="text/javascript" src="//extra.matteoferla.com/brython/brython.js"></script>
+<link rel="stylesheet" href="https://dl.dropboxusercontent.com/u/73404587/website//scripts/pyspinner.css">
+<script type="text/javascript" src="https://dl.dropboxusercontent.com/u/73404587/website//brython/brython.js"></script>
+<script type="text/javascript" src="https://dl.dropboxusercontent.com/u/73404587/website//brython/py_VFS.js"></script>
 <script type="text/python3">
 from browser import document as doc
-doc['out'].html='Hello world'
+doc['out'].html='<span id=change class=pyspinner></span>&nbsp; Brython will now'
 </script>
 </head>
 <body onload="brython()">
 <div style="padding:50px">
-<span id=out><span id=change class=pyspinner></span>&nbsp; Brython is loading...</span></div>
+<span id=out><span id=change class=pyspinner></span>&nbsp; Brython is loading (with the various libraries to slow it down)...</span></div>
 </body>
 </html>
