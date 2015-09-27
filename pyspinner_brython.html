@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pyspinner Test</title>
+<meta name="description" content="Pyspinner">
+<link rel="stylesheet" href="//extra.matteoferla.com/pyspinner.css">
+<script type="text/javascript" src="//extra.matteoferla.com/brython/brython.js"></script>
+<script type="text/python3">
+from browser import document as doc
+doc['out'].html='Hello world'
+</script>
+</head>
+<body onload="brython()">
+<div style="padding:50px">
+<span id=out><span id=change class=pyspinner></span>&nbsp; Brython is loading...</span></div>
+</body>
+</html>
