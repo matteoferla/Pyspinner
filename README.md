@@ -9,8 +9,15 @@ There are four classes:
 *  bigpyantispinner = 32px colour counterclockwise
 *  pycorpse= 1em static dead snake
 
-Example:
+With the except of the big ones, they have to be display:inline.
+
 ```
 <span class=pyspinner></span>
 <div class=bigpyspinner></div>
 ```
+
+
+[Example page](https://rawgit.com/matteoferla/Pyspinner/blob/master/demo.html).
+
+
+
