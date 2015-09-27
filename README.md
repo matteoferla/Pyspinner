@@ -20,6 +20,8 @@ With the except of the big ones, they have to be display:inline.
 
 [Brython Hello world with pyspinner](https://rawgit.com/matteoferla/Pyspinner/master/pyspinner_brython.html)
 
+[Bacterial namegen](http://extra.matteoferla.com/bacterial_namegen.html)
+
 Figures:
 
 ![pyspinners](https://rawgit.com/matteoferla/Pyspinner/master/pyspinners.png)
