@@ -16,8 +16,9 @@ With the except of the big ones, they have to be display:inline.
 <div class=bigpyspinner></div>
 ```
 
-
 [Example page](https://rawgit.com/matteoferla/Pyspinner/master/demo.html).
 
-![pyspinners](https://rawgit.com/matteoferla/Pyspinner/master/pyspinners.svg)
+Figures:
+
+![pyspinners](https://rawgit.com/matteoferla/Pyspinner/master/pyspinners.png)
 
