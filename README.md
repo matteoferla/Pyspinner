@@ -1,8 +1,10 @@
 # Spinning Python glyph
-NOTE: I orginally called it pyspinner as a spinning icon is a spinner. Turns out there is some other thing called pyspinner.
+**NOTE:** I orginally called it pyspinner as a spinning icon is a spinner. Turns out there is some other thing called pyspinner.
 Sorry about that!
 
-A small CSS to make a spinner icon of a snake biting its tail (for Python-based webpages, either Brython or server-side python).
+**NOTE:** It has been pointed out to me that the a python has roundish blotches while a snake with triangles on its back is a rattlesnake, diamondback or something else. I apologise for any zoological misunderstandings.
+
+A small CSS to make a spinner (throbber) icon of a snake biting its tail (for Python-based webpages, either Brython or server-side python).
 
 The CSS is very simple, nothing fancy like Font-Awesome.
 There are four classes:
